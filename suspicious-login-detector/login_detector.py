@@ -12,11 +12,12 @@ for line in lines:
             failed_users[username] = 1
         else:
             failed_users[username] += 1
-        print("⚠ Suspicious Login Detected:", line.strip())
+
 print(f"\nTotal Failed Logins: {failed_count}")
 print("\nFailed Login Summary:")
 for username, attempts in failed_users.items():
-    print(f"{username}: {attempts} failed attempts")
+    word = "attempt" if attempts == 1 else "attempts"
+    print(f"{username}: {attempts} failed {word}")
 
     if attempts >= 3:
         print("⚠ Possible brute-force attack detected!")

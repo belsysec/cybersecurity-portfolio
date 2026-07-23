@@ -1,0 +1,15 @@
+========== SOC ALERT REPORT ==========
+
+INFO: 4 | Severity: Low
+WARNING: 2 | Severity: Medium
+FAILED LOGIN: 2 | Severity: Medium
+PORT SCAN: 2 | Severity: High
+MALWARE DETECTED: 2 | Severity: Critical
+
+Critical Alerts:
+ALERT: 2026-07-18 08:03:40 PORT SCAN Detected from 192.168.1.20
+ALERT: 2026-07-18 08:05:15 MALWARE DETECTED Trojan.Generic
+ALERT: 2026-07-18 08:09:50 PORT SCAN Detected from 10.0.0.15
+ALERT: 2026-07-18 08:11:45 MALWARE DETECTED Ransomware.Sample
+
+======================================
