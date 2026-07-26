@@ -1,0 +1,17 @@
+========== MINI SIEM DASHBOARD ==========
+
+Total Events: 12
+
+INFO               3
+WARNING            2
+FAILED LOGIN       3
+PORT SCAN          2
+MALWARE DETECTED   2
+
+Critical Events:
+ALERT: 2026-07-25 08:17:30 PORT SCAN 192.168.1.99
+ALERT: 2026-07-25 08:20:45 MALWARE DETECTED Trojan.Generic
+ALERT: 2026-07-25 08:34:15 MALWARE DETECTED Ransomware.Sample
+ALERT: 2026-07-25 08:39:45 PORT SCAN 10.0.0.55
+
+=========================================
