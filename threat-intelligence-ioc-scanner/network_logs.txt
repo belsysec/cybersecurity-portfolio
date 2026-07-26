@@ -1,0 +1,8 @@
+2026-07-23 08:10:15 Connection established with 192.168.1.20
+2026-07-23 08:12:40 Connection blocked from 192.168.1.50
+2026-07-23 08:15:05 User visited example.com
+2026-07-23 08:17:30 DNS request sent to malicious-site.com
+2026-07-23 08:20:45 File downloaded with hash 44d88612fea8a8f36de82e1278abb02f
+2026-07-23 08:23:10 Connection established with 10.0.0.25
+2026-07-23 08:25:55 DNS request sent to safe-site.org
+2026-07-23 08:28:20 Connection blocked from 10.0.0.99

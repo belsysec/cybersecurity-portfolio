@@ -1,0 +1,5 @@
+192.168.1.50
+10.0.0.99
+malicious-site.com
+evil-download.net
+44d88612fea8a8f36de82e1278abb02f
