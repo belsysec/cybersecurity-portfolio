@@ -1,0 +1,1 @@
+This is a sample file used by the SOC Analyst Toolkit for SHA-256 hash analysis.
