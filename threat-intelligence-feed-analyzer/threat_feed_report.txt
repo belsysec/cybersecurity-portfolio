@@ -1,0 +1,26 @@
+========== THREAT INTELLIGENCE FEED REPORT ==========
+
+Original Entries: 9
+Unique Entries: 7
+Duplicates Removed: 2
+
+IOC Type Summary:
+IP: 3
+Domain: 3
+Hash: 1
+
+Severity Summary:
+Critical: 3
+High: 2
+Medium: 1
+Low: 1
+
+High-Priority Indicators:
+
+Critical | IP | 192.168.1.50 | Known ransomware command-and-control server
+High | IP | 10.0.0.99 | Repeated brute-force activity
+Critical | Domain | malicious-site.com | Phishing and malware distribution
+High | Domain | evil-download.net | Suspicious software downloads
+Critical | Hash | 44d88612fea8a8f36de82e1278abb02f | Known malware sample
+
+=====================================================

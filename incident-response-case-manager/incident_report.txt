@@ -1,0 +1,28 @@
+========== INCIDENT RESPONSE REPORT ==========
+
+Total Incidents: 8
+
+Severity Summary
+Critical: 3
+High: 2
+Medium: 2
+Low: 1
+
+Open Incidents
+
+INC001 | Critical | Ransomware detected on Finance-PC-01
+INC002 | Medium | Multiple failed login attempts for Alice
+INC003 | High | Port scan detected from 10.0.0.55
+INC005 | Critical | Business email compromise suspected
+INC006 | Medium | Suspicious PowerShell execution
+INC008 | Critical | Domain Controller compromise suspected
+
+Recommended Actions
+
+- Isolate affected systems.
+- Notify Incident Response Team.
+- Preserve forensic evidence.
+- Begin containment procedures.
+- Continue monitoring.
+
+==============================================

@@ -1,0 +1,8 @@
+INC001|Critical|Ransomware detected on Finance-PC-01|Open
+INC002|Medium|Multiple failed login attempts for Alice|Open
+INC003|High|Port scan detected from 10.0.0.55|Open
+INC004|Low|USB device connected to workstation|Closed
+INC005|Critical|Business email compromise suspected|Open
+INC006|Medium|Suspicious PowerShell execution|Open
+INC007|High|Privilege escalation attempt detected|Closed
+INC008|Critical|Domain Controller compromise suspected|Open

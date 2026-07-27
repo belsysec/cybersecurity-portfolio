@@ -1,0 +1,9 @@
+192.168.1.50|IP|Critical|Known ransomware command-and-control server
+10.0.0.99|IP|High|Repeated brute-force activity
+malicious-site.com|Domain|Critical|Phishing and malware distribution
+evil-download.net|Domain|High|Suspicious software downloads
+44d88612fea8a8f36de82e1278abb02f|Hash|Critical|Known malware sample
+192.168.1.50|IP|Critical|Duplicate IOC entry
+suspicious-login.org|Domain|Medium|Credential harvesting activity
+10.0.0.99|IP|High|Duplicate IOC entry
+8.8.8.8|IP|Low|Test entry
